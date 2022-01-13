@@ -1,0 +1,31 @@
+.one {
+    background: silver;
+    height: 100px;
+    box-sizing: border-box;
+    padding-top: 40px;
+
+}
+.two {
+    background: dodgerblue;
+    box-sizing: border-box;
+    height: 100px;
+    padding-top: 40px;
+}
+h1 {
+    background: brown;
+    height: 50px;
+    text-align: center;
+
+}
+.three {
+    width: 200px;
+    height: 200px;
+    background: darkgreen;
+}
+.five {
+  background: blueviolet;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+
+}
