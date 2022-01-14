@@ -1,0 +1,53 @@
+.tx1 {
+    background: orange;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    border: 2px solid silver;
+    box-shadow: black 10px 10px 0px 5px;
+}
+
+.tx2 {
+    background: orange;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    border: 2px solid silver;
+    box-shadow: black 10px 10px 5px 5px;
+
+}
+.tx3 {
+    background: orange;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    border: 2px solid silver;
+    box-shadow: black 8px 8px 10px 5px;
+}
+.tx4 {
+    background: orange;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    border: 2px solid silver;
+    box-shadow: grey 10px 10px 10px 5px;
+}
+.tx5 {
+    background: orange;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    border: 2px solid silver;
+    box-shadow:black 10px 10px 5px 5px;
+    border-radius: 5px;
+}
+.tx6 {
+    background: orange;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    border: 2px solid silver;
+    box-shadow: grey 10px 10px 5px 5px;
+    border-radius: 5px;
+
+}
