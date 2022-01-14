@@ -1,0 +1,51 @@
+.class{
+    background: black;
+    width: 100%;
+    height: 100%;
+}
+
+.ex1 {
+    color: #ff6f1f;
+    border: 5px solid #ff6f1f;
+    border-radius: 100px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 800px;
+    padding: 20px;
+    font-size: 24px;
+}
+.ex2{
+    color: #2efff2;
+    border: 5px solid #2efff2;
+    border-radius: 100px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    margin-left: 800px;
+    padding: 20px;
+    font-size: 24px;
+}
+.ex3{
+    color: #ff55a7;
+    border: 5px solid #ff55a7;
+    border-radius: 100px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    margin-left: 800px;
+    padding: 20px;
+    font-size: 24px;
+}
+.ex4{
+    color: #ff4040;
+    border: 5px solid #ff4040;
+    border-radius: 100px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    margin-left: 800px;
+    padding: 20px;
+    font-size: 24px;
+}
