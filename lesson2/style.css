@@ -1,0 +1,17 @@
+.tx1 {
+    background: silver;
+    width: 500px;
+    height: 200px;
+    box-shadow: burlywood -20px -30px 30px 0px;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+
+.text {
+    box-sizing: border-box;
+    border-left: 4px solid red;
+    margin-left: 200px;
+    padding-left: 30px;
+
+}
