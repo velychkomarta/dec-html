@@ -1,0 +1,48 @@
+.wrap1 {
+    display: flex;
+
+
+}
+.post {
+    width: 252px;
+    height: 400px;
+    background: rgb(196, 213, 145);
+    margin: 20px;
+    margin-top: 5px;
+    font-size: 30px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 150px;
+    color: black;
+}
+
+.box {
+    width: 545px;
+    height: 200px;
+    background: #958cb6;
+    margin: 20px;
+    font-size: 30px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top:70px;
+    color: black;
+}
+
+.wrap2 {
+    display: flex;
+
+}
+
+.text {
+    width: 155px;
+    height: 200px;
+    background: #77dcc6;
+    margin: 20px;
+    margin-top: 5px;
+    font-size: 30px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 80px;
+    color: black;
+
+}
