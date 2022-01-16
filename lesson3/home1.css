@@ -1,0 +1,50 @@
+.A {
+    background: blue;
+    height: 150px;
+    width: 700px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-bottom: 5px;
+    font-size: 40px;
+    color:black;
+}
+.bloc {
+    display: flex;
+    justify-content: center;
+
+}
+.target {
+    display: flex;
+}
+.wrap {
+    background: white;
+    height: 300px;
+    width: 500px;
+    display:flex;
+    flex-wrap: wrap;
+
+
+}
+.a {
+    background: #958cb6;
+    height: 149px;
+    width: 149px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right:17px;
+    color: black;
+    font-size: 40px;
+}
+.h {
+    background: #ff6f1f;
+    height: 300px;
+    width: 200px;
+    color: black;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+}
