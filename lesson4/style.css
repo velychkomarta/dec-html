@@ -1,0 +1,43 @@
+.box {
+    display: flex;
+    box-sizing: border-box;
+}
+.w200 {
+    width: 250px;
+}
+.h450 {
+    height: 300px;
+}
+.backg {
+    background: silver;
+}
+.mg {
+    margin-right: 30px;
+}
+.text {
+    text-align: center;
+}
+.size {
+    font-size: 25px;
+}
+.padd {
+    padding-top: 40px;
+}
+.box2 {
+    height: 100px;
+    width: 530px;
+    background: cornflowerblue;
+
+}
+.mg-top {
+    margin-top: 20px;
+}
+.box3 {
+    display: flex;
+}
+.w157 {
+    width: 157px;
+}
+.h250 {
+    height: 250px;
+}
