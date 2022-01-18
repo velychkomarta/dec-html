@@ -1,0 +1,41 @@
+.justf {
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.target {
+    align-items: center;
+}
+.text {
+    text-align: center;
+}
+.a {
+    height: 150px;
+    background: burlywood;
+}
+.size {
+    font-size: 30px;
+}
+.wid {
+    width: 100%;
+}
+.column{
+    flex-direction: column;
+}
+.b {
+    margin: 5px 5px 0px 0px;
+    height: 247px;
+    width:95%;
+    background: yellow;
+}
+.h {
+    width: 35%;
+}
+.x {
+    margin-top:5px;
+    height: 500px;
+    background: #77dcc6;
+}
