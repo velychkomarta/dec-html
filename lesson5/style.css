@@ -1,0 +1,52 @@
+.bg-base{
+    background: #545fab;
+}
+.jusf-cen{
+    justify-content: center;
+}
+.flex{
+    display: flex;
+}
+.align{
+    align-items: center;
+}
+.a{
+    height: 90px;
+    width: 100%;
+
+}
+.wrap{
+    margin-top: 5px;
+}
+.b{
+
+    height: 130px;
+    width: 70%;
+
+}
+.c{
+    height: 130px;
+    width: 40%;
+    margin-left: 10px;
+
+}
+@media screen and (min-width: 0px) and (max-width: 922px){
+.b{
+    background-color: #958cb6;
+    width: 100%;
+    margin-top: 10px;
+}
+.wrap{
+    display: block;
+}
+.a{
+    background-color: #958cb6;
+    width: 100%;
+}
+.c{
+    background-color: #958cb6;
+    width: 100%;
+    margin: 0px;
+    margin-top: 10px;
+}
+}
